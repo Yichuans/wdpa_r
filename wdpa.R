@@ -1,3 +1,4 @@
+# added some comments
 library("Cairo", lib.loc="C:/Users/yichuans/Documents/R/win-library/3.0")
 library(RODBC)
 # set up environment ----
