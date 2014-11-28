@@ -1,4 +1,5 @@
 # added some comments
+# added some more text in Windows git 
 library("Cairo", lib.loc="C:/Users/yichuans/Documents/R/win-library/3.0")
 library(RODBC)
 # set up environment ----
